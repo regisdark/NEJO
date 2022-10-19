@@ -22,7 +22,6 @@ Lets image that you want to create 25 Tra1n3r Club accounts, in traditional way,
 **Important.- At this version, #NEJO does not create temporary mail address for this process, but provides you logical tools for including at rows, is easy: double click at desired row, under column name #Mail & paste created mail for this username also, if you wish, mark checkbox at last column #Trainer Account Created?. This will allow you having a ideal information management.
 
 <b>#NEJO</b> (ES) <br/>
-*Los acentos fueron omitidos a proposito para evitar problemas de compatibilidad.<br/>
 *La informacion sensible fue editada a conveniencia. <br/>
 *Esta herramienta no recolecta o almacena información alguna, los datos generados son solamente de referencia y usados por los usuarios finales.<br/>
 
